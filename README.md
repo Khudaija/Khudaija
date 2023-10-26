@@ -2,10 +2,4 @@
 
 **Khudaija Pinjari**
 
-
-
-git status
-
-git add
-
-git commit
+🖊️ ***Learning .NET***
