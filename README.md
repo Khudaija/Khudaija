@@ -17,9 +17,7 @@
 
 - 🤝 I’m looking for help with **Spotify Clone**
 
-- 👨‍💻 All of my projects are available at [https://xyz.com](https://xyz.com)
-
-- 📫 How to reach me **khudaijapinjari@gmail.com**
+- 📫 How to reach me **khudaija.pinjari@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
