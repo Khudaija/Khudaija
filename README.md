@@ -9,9 +9,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/xyz_123" target="blank"><img src="https://img.shields.io/twitter/follow/xyz_123?logo=twitter&style=for-the-badge" alt="xyz_123" /></a> </p> -->
 
-- 🔭 I’m currently working on **Block Chain**
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET Framework / CS**
   
 <!-- -  👯 I’m looking to collaborate on **GSoC** 
 
