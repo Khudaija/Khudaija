@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Block Chain**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **.NET Framework**
+  
+<!-- -  👯 I’m looking to collaborate on **GSoC** 
 
-- 👯 I’m looking to collaborate on **GSoC**
-
-- 🤝 I’m looking for help with **Spotify Clone**
+- 🤝 I’m looking for help with **Spotify Clone** -->
 
 - 📫 How to reach me **khudaija.pinjari@gmail.com**
 
@@ -25,15 +25,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xyz_123" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xyz_123" height="30" width="40" /></a>
 <a href="https://dev.to/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xyz_123" height="30" width="40" /></a>
-<a href="https://twitter.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyz_123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyz_123" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xyz_123" height="30" width="40" /></a>
+<a href="https://twitter.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyz_123" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/khudaija-pinjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyz_123" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xyz_123" height="30" width="40" /></a>
 <a href="https://codesandbox.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xyz_123" height="30" width="40" /></a>
 <a href="https://kaggle.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xyz_123" height="30" width="40" /></a>
 <a href="https://fb.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyz_123" height="30" width="40" /></a>
-<a href="https://instagram.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz_123" height="30" width="40" /></a>
+<a href="https://instagram.com/xyz_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz_123" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
