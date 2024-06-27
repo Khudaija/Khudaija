@@ -17,9 +17,9 @@
 
 
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **Full Stack Developer**.
 
-- 🌱 I’m currently learning **.NET Framework / CS**
+<!-- - 🌱 I’m currently learning **.NET Framework / CS** -->
   
 <!-- -  👯 I’m looking to collaborate on **GSoC** 
 
